@@ -4,7 +4,7 @@ This project is a responsive portfolio website aimed at showcasing skills, proje
 
 ## Live Demo
 
-Check out the live demo of Portfolio at: http://localhost:3000/
+Check out the live demo of Portfolio at: https://responsive-portfolio-website-omega.vercel.app/
 
 ## Features
 
